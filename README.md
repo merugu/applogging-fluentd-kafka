@@ -25,6 +25,8 @@ C) Other resources:
 2) https://docs.fluentd.org/input/http
 #Use the below link to launch all the confluent kafka services
 3) https://github.com/confluentinc/examples/tree/5.3.1-post/cp-all-in-one 
+# Openshift deploy.yaml file configuration
+https://github.com/CDCgov/openshift-fluentd-forwarder/blob/master/fluentd-forwarder-template.yaml
 
 
 Step 1: Install docker on your laptop 
