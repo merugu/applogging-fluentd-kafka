@@ -105,9 +105,13 @@ In Kafka consumer terminal you should be able to see the message received
 Nodejs APP readme:
 
 #import node modules 
+
 Step1: npm install 
 #start the nodejs application
+
 Step2: node app.js
+
 # PostData
+
 curl -d '{"name":"value1", "email":"value2"}' -H "Content-Type: application/json" -X POST http://localhost:4000/submit-data
 
