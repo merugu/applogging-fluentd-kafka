@@ -8,7 +8,7 @@ A) Kafka Resources:
 2) https://www.apache.org/dyn/closer.cgi?path=/kafka/2.4.0/kafka_2.12-2.4.0.tgz
 
 
-B) FluentD resource:
+B) FluentD resources:
 
 # Define input plugin configuration(input is log file...tail input type is used to define the input config) 
 1) https://docs.fluentd.org/input/tail
