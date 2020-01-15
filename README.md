@@ -1,7 +1,7 @@
 # fluentd-unified-logging
 This repo contain resources to publish application logs to Kafka topic
 
-A) Kafka Resource:
+A) Kafka Resources:
 # To setup kafka, zookeeper, schema registry on docker follow the below steps:
 1) https://docs.confluent.io/current/quickstart/cos-docker-quickstart.html
 #Kafka cli is command line kafka tool used to publish and consume messages 
