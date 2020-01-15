@@ -102,13 +102,10 @@ curl -d '{"name":"value1", "email":"value2"}' -H "Content-Type: application/json
 In Kafka consumer terminal you should be able to see the message received 
 
 
-Nodejs APP readme:
+Steps to execute nodejs application:
 
-#import node modules 
 
-Step1: npm install 
-#start the nodejs application
-
+Step1: npm install
 Step2: node app.js
 
 # PostData
