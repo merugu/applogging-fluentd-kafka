@@ -6,6 +6,7 @@ A) Kafka Resources:
 1) https://docs.confluent.io/current/quickstart/cos-docker-quickstart.html
 #Kafka cli is command line kafka tool used to publish and consume messages 
 2) https://www.apache.org/dyn/closer.cgi?path=/kafka/2.4.0/kafka_2.12-2.4.0.tgz
+3)https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf
 
 
 B) FluentD resources:
